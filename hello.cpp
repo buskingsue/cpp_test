@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "동수 안녕!\n";
-    cout << "동수 너는 천재!\n";
-    cout << "동수 너는 누구냐!\n";
+    cout << "hi 안녕!\n";
+    cout << "hi 너는 천재!\n";
+    cout << "hi 너는 누구냐!\n";
 
 
     return 0;
