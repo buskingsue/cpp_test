@@ -3,7 +3,7 @@
 # 명령어
 ```
 # 전체 명령어
-g++ -Wall -Werror -Wextra -o hello hello.cpp | ./hello
+g++ -Wall -Werror -Wextra -o hello hello.cpp ; ./hello
 
 # 터미널 설정 파일 수정
 vi ~/.zshrc 
